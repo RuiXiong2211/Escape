@@ -1,0 +1,2514 @@
+2020-07-11 00:32:11.2196 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 02:14:14.7008 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 02:14:14.8482 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 02:14:18.4216 [DEBUG] Play mode: False
+2020-07-11 03:20:39.1592 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 03:20:39.3332 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 03:20:45.7905 [DEBUG] Play mode: False
+2020-07-11 03:23:25.5583 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 03:23:25.7024 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 03:23:29.1192 [DEBUG] Play mode: False
+2020-07-11 03:23:33.7074 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 03:23:33.8509 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 03:23:36.3898 [DEBUG] Play mode: False
+2020-07-11 04:02:48.0947 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:03:23.8147 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:11:47.6327 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:11:47.7635 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:12:29.1923 [DEBUG] Play mode: False
+2020-07-11 04:14:02.0764 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:14:11.4385 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:14:11.6366 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:14:16.6720 [DEBUG] Play mode: False
+2020-07-11 04:14:24.8312 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:14:24.9541 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:24.9541 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:24.9551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:24.9912 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:14:24.9980 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:24.9990 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0000 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0322 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0478 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0488 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0488 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0634 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0654 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0810 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0820 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0820 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0976 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0976 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.0986 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1317 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1327 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1337 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1503 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1503 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1513 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1669 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1679 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1688 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1844 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1854 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.1854 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2050 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2059 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2069 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2245 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2332 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2342 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2557 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2723 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2723 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2733 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2879 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2879 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.2889 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3045 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3045 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3055 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3216 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3216 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3226 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3392 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3557 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3567 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3567 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3733 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3743 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3753 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.3918 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4104 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4114 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4114 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4250 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4260 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4260 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4465 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4475 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4485 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4628 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4628 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4638 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4882 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4892 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.4892 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5048 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5058 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5067 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5214 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5214 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5224 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5370 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5380 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5389 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5536 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5702 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5711 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5711 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5858 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5868 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.5877 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6034 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6034 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6044 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6209 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6209 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6219 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6463 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6473 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6483 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6655 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6655 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6675 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6867 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6877 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.6887 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7082 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7160 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7384 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7404 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7423 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7736 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7736 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7745 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7980 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7989 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.7989 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8146 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8155 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8155 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8477 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8487 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8487 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8663 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8663 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8673 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8834 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8844 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.8844 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9010 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9010 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9020 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9186 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9186 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9195 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9371 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9381 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9390 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9566 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9732 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9742 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9918 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9927 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:25.9927 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0171 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0318 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0328 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0328 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0503 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0640 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0650 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0650 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0816 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0816 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0825 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.0991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1147 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1157 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1307 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1483 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1649 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1649 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1824 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1834 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.1834 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2049 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2059 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2059 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2205 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2215 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2215 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2391 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2400 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2400 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2927 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2927 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.2937 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3142 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3348 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3358 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3368 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3534 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3534 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3544 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3699 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3709 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3719 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3866 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3866 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.3875 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4031 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4188 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4197 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4197 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4363 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4373 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4383 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4558 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4568 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4568 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4714 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4724 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4733 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4890 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4890 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.4899 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5094 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5104 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5104 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5260 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5270 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5280 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5517 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5524 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5524 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5680 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5680 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5690 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5856 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5856 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.5866 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6002 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6012 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6012 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6168 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6168 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6178 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6320 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6505 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6515 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6515 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6749 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6759 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6759 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6906 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6906 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.6916 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7081 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7101 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7237 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7247 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7257 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7409 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7409 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7419 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7552 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7562 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7572 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7738 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7747 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7747 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.7904 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8079 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8089 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8089 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8225 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8235 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8245 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8411 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8567 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8567 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8577 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8753 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8753 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8762 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8899 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.8909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9084 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9094 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9104 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9251 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9408 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9408 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9418 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9575 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9584 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9584 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9779 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9789 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9799 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9935 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9935 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:26.9945 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0103 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0103 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0111 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0248 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0258 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0258 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0443 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0453 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0453 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0609 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0609 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0619 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0853 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0853 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.0863 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1019 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1019 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1029 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1234 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1243 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1253 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1380 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1390 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1399 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1565 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1722 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1888 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1897 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.1907 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2063 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2073 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2083 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2219 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2229 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2229 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2395 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2405 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2405 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2698 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2864 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2873 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.2883 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3039 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3039 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3049 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3205 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3215 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3215 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3400 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3410 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3420 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3566 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3576 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3791 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3791 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.3967 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4153 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4153 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4348 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4348 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4358 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4524 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4524 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4533 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4690 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4699 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4699 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4875 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4875 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.4885 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5050 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5050 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5060 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5197 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5207 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5207 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5363 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5363 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5373 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5509 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5519 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5519 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5773 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5783 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5783 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5939 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5939 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.5949 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6183 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6193 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6203 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6349 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6359 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6359 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6515 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6525 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6535 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6671 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6691 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6838 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6848 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.6848 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7014 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7023 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7033 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7316 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7316 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7326 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7511 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7521 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7521 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7697 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7716 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7872 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7882 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.7882 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8029 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8039 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8039 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8204 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8214 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8214 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8390 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8400 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8400 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8897 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8907 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.8907 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9083 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9083 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9093 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9229 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9239 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9239 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9385 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9395 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9405 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9557 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9703 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9713 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9722 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9878 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9888 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:27.9888 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0054 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0054 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0064 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0210 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0210 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0269 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0435 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0444 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0444 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0588 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0597 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0597 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0763 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0763 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0773 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0910 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0920 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.0920 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1095 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1105 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1105 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1251 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1261 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1261 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1485 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1495 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1495 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1642 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1642 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1652 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1808 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1817 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1817 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1964 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1974 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.1974 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2159 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2159 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2169 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2325 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2325 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2335 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2501 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2501 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2637 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2647 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2657 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2823 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2823 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2833 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2969 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2979 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.2989 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3135 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3145 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3145 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3281 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3291 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3291 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3457 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3467 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3467 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3633 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3633 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3643 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3828 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3838 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.3838 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4004 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4004 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4014 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4326 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4326 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4336 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4506 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4516 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4516 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4799 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4868 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.4878 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5092 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5102 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5102 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5248 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5248 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5258 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5482 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5482 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.5492 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Touchcoin.Reset () (at Assets/Scripts/Prefab/Touchcoin.cs:43)
+Touchcoin.Update () (at Assets/Scripts/Prefab/Touchcoin.cs:24)
+
+2020-07-11 04:14:28.8694 [DEBUG] Play mode: False
+2020-07-11 04:15:09.8183 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:15:09.9750 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:15:12.2220 [DEBUG] Play mode: False
+2020-07-11 04:15:25.2746 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:15:55.4085 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:15:55.5773 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:15:57.7836 [DEBUG] Play mode: False
+2020-07-11 04:16:11.4761 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:16:11.6420 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:16:12.8980 [DEBUG] Play mode: False
+2020-07-11 04:16:26.6013 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:16:26.7708 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:16:37.2155 [DEBUG] Play mode: False
+2020-07-11 04:17:36.0708 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:17:36.2296 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:17:49.4220 [DEBUG] Play mode: False
+2020-07-11 04:17:55.6262 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:17:55.7833 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:18:11.2388 [DEBUG] Play mode: False
+2020-07-11 04:18:51.4482 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:18:51.6439 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:19:22.5142 [DEBUG] Play mode: False
+2020-07-11 04:24:20.5685 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:25:06.1886 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:25:13.1267 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:25:13.2633 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:27:17.4578 [DEBUG] Play mode: False
+2020-07-11 04:28:37.6261 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 04:28:37.7939 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 04:29:08.2327 [DEBUG] Play mode: False
+2020-07-11 15:11:08.0422 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:14:58.2858 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:14:58.4235 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:15:08.1848 [DEBUG] Play mode: False
+2020-07-11 15:16:19.6128 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:16:19.7474 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:16:38.1526 [DEBUG] Play mode: False
+2020-07-11 15:16:53.7698 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:16:56.5885 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:16:56.7112 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:16:56.9037 [DEBUG] Play mode: False
+2020-07-11 15:17:00.4358 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:17:00.5794 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:17:17.0818 [DEBUG] Play mode: False
+2020-07-11 15:18:01.6938 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:18:07.0443 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:18:07.1590 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:18:16.3769 [DEBUG] Play mode: False
+2020-07-11 15:18:26.7729 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:18:26.9095 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:18:36.7446 [DEBUG] Play mode: False
+2020-07-11 15:19:21.9711 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:19:22.1092 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:19:43.5074 [DEBUG] Play mode: False
+2020-07-11 15:20:09.7323 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:20:12.5035 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:20:12.6237 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:20:12.8680 [DEBUG] Play mode: False
+2020-07-11 15:20:16.0918 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:20:16.2355 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:20:26.6405 [DEBUG] Play mode: False
+2020-07-11 15:21:51.2195 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:21:54.3982 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:21:54.5109 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:22:04.2867 [DEBUG] Play mode: False
+2020-07-11 15:22:15.7973 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:22:57.9753 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:23:00.8142 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:23:00.9309 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:23:07.9968 [DEBUG] Play mode: False
+2020-07-11 15:27:15.6466 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:27:22.1135 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:27:22.2312 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:27:33.4602 [DEBUG] Play mode: False
+2020-07-11 15:27:53.7124 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:27:53.8595 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:28:01.8006 [DEBUG] Play mode: False
+2020-07-11 15:28:12.4372 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:28:12.5733 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:28:24.2367 [DEBUG] Play mode: False
+2020-07-11 15:28:44.6466 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:29:01.5453 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:29:05.2485 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:29:05.3701 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:29:17.8909 [DEBUG] Play mode: False
+2020-07-11 15:29:30.1826 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:29:35.4588 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:29:35.5715 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:29:43.0722 [DEBUG] Play mode: False
+2020-07-11 15:29:48.6479 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:29:48.7496 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:30:03.4683 [DEBUG] Play mode: False
+2020-07-11 15:30:10.6082 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:30:13.5721 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:30:13.6528 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:30:18.9829 [DEBUG] Play mode: False
+2020-07-11 15:30:25.2584 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:30:27.8645 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:30:27.9452 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:30:33.6944 [DEBUG] Play mode: False
+2020-07-11 15:30:56.7552 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:31:00.2210 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:31:00.3017 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:31:05.7267 [DEBUG] Play mode: False
+2020-07-11 15:31:13.9783 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:31:28.6152 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:31:32.1298 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:31:32.2145 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:31:39.7613 [DEBUG] Play mode: False
+2020-07-11 15:31:43.5730 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-11 15:31:43.7116 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-11 15:31:49.3771 [DEBUG] Play mode: False
+2020-07-11 21:58:15.2605 [DEBUG] Scene Fusion version 1.8.7-0

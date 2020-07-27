@@ -1,0 +1,29 @@
+2020-06-13 18:47:56.5597 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 18:53:13.9379 [INFO] Launching Session: Slums
+2020-06-13 18:53:14.6674 [DEBUG] Connecting
+2020-06-13 18:53:14.6997 [DEBUG] Connecting to room (124963:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-06-13 18:53:43.3161 [DEBUG] Sent E:/Unity/Escape/KSEditorLogs/SessionLogs/session.124963-637276711947270323.log
+2020-06-13 18:56:41.1562 [DEBUG] Connecting
+2020-06-13 18:56:41.1679 [DEBUG] Connecting to room (124962:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-06-13 20:52:23.6314 [DEBUG] Sent E:/Unity/Escape/KSEditorLogs/SessionLogs/session.124962-637276714011689031.log
+2020-06-13 20:53:14.2779 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 20:53:44.6808 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 20:53:44.8282 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-13 20:53:50.6106 [DEBUG] Play mode: False
+2020-06-13 20:53:53.1744 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 20:53:53.3227 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-13 20:54:30.5874 [DEBUG] Play mode: False
+2020-06-13 20:54:51.6139 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 20:54:51.7544 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-13 20:55:16.4429 [DEBUG] Play mode: False
+2020-06-13 20:55:37.3277 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 20:55:37.4805 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-13 20:56:46.7573 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Movement.Dash (System.Single x, System.Single y) (at Assets/Scripts/Movement.cs:247)
+Movement.Update () (at Assets/Scripts/Movement.cs:156)
+
+2020-06-13 20:56:49.2874 [DEBUG] Play mode: False
+2020-06-13 20:59:16.6300 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-13 20:59:16.7818 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-13 20:59:44.9802 [DEBUG] Play mode: False
+2020-06-13 21:23:50.4665 [DEBUG] Scene Fusion version 1.8.7-0

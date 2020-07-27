@@ -1,0 +1,32 @@
+2020-06-13 18:53:15.1427 [DEBUG] Validating model...
+2020-06-13 18:53:15.3423 [DEBUG] Model validated
+2020-06-13 18:53:15.3432 [DEBUG] Authenticating with server...
+2020-06-13 18:53:15.8957 [DEBUG] Connected to room. (124963:SceneFusion:SceneFusion)
+2020-06-13 18:53:15.8986 [INFO] Connected to server.
+2020-06-13 18:53:15.8986 [DEBUG] OS : Microsoft Windows NT 10.0.18362.0
+2020-06-13 18:53:15.8986 [DEBUG] Unity Version : 2019.3.15f1
+2020-06-13 18:53:15.8996 [DEBUG] Pro License : False
+2020-06-13 18:53:15.8996 [DEBUG] Platform : WindowsEditor
+2020-06-13 18:53:15.8996 [DEBUG] Build Target : StandaloneWindows64
+2020-06-13 18:53:15.8996 [DEBUG] Scene Fusion version : 1.8.7
+2020-06-13 18:53:15.8996 [DEBUG] Scene Fusion client build : 0
+2020-06-13 18:53:15.8996 [DEBUG] User : xiinweii98@gmail.com
+2020-06-13 18:53:15.8996 [DEBUG] Waiting for server response
+2020-06-13 18:53:15.9806 [DEBUG] Tier: Free, Permissions: 00000200
+2020-06-13 18:53:15.9806 [DEBUG] User Permissions: FFFFFFFF
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.MovieTexture
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RayTracingShader
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2020-06-13 18:53:16.5759 [DEBUG] No stand-in for UnityEngine.VFX.VisualEffectAsset
+2020-06-13 18:53:16.8863 [DEBUG] Uploading scene 'Slums'
+2020-06-13 18:53:17.1704 [WARNING] Cannot sync '' (Tile) because it is not in Unity's asset database.
+2020-06-13 18:53:26.0589 [WARNING] Cannot sync '' (Sprite) because it is not in Unity's asset database.
+2020-06-13 18:53:26.2131 [DEBUG] Compressing scene data
+2020-06-13 18:53:26.4528 [DEBUG] Spawn request. (Objects: 55)
+2020-06-13 18:53:26.7754 [DEBUG] Loading complete
+2020-06-13 18:53:43.2859 [DEBUG] Disconnecting from room (124963:SceneFusion:SceneFusion)
+2020-06-13 18:53:43.2908 [INFO] Disconnected from server.
+2020-06-13 18:53:43.2908 [DEBUG] Disconnect. (Duration: 27)

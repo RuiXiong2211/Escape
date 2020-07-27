@@ -1,0 +1,677 @@
+2020-06-25 00:29:44.2501 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 00:31:49.2074 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 00:36:03.3492 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 00:36:03.4928 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 00:36:27.4797 [DEBUG] Play mode: False
+2020-06-25 00:37:09.1688 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 00:37:09.3314 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 00:37:14.4082 [DEBUG] Play mode: False
+2020-06-25 00:53:22.4020 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 00:53:22.5543 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 00:54:11.8238 [DEBUG] Play mode: False
+2020-06-25 00:56:17.1098 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 00:56:17.2806 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 00:56:20.1364 [DEBUG] Play mode: False
+2020-06-25 01:01:37.9454 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:01:38.1143 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 01:01:55.0222 [DEBUG] Play mode: False
+2020-06-25 01:01:58.4661 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:01:58.6379 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 01:03:52.9861 [DEBUG] Play mode: False
+2020-06-25 01:15:37.4730 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:16:01.0300 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:16:07.1041 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:16:07.2368 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 01:16:27.6979 [DEBUG] Play mode: False
+2020-06-25 01:25:52.0765 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:25:52.2307 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 01:26:02.1137 [DEBUG] Play mode: False
+2020-06-25 01:39:30.3659 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:44:53.2979 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:47:04.7207 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:47:20.1120 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:51:27.2687 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 01:56:01.5344 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 02:30:47.2305 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 02:30:53.3602 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 02:32:02.4869 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 02:32:56.3706 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 02:35:27.2403 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 03:49:15.2757 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 03:49:15.4328 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 03:49:37.3398 [DEBUG] Play mode: False
+2020-06-25 03:52:32.3963 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 03:52:32.5661 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 03:52:44.5342 [DEBUG] Play mode: False
+2020-06-25 03:54:46.0855 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 03:54:57.4943 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 03:59:06.1187 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:10:07.8784 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:10:46.6308 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:14:48.5952 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:15:21.2497 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:15:44.6614 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:17:11.2212 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:18:42.6562 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:18:42.8114 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:18:44.9526 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.CreateNewPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+NewGameMenu.CreateNewGame (System.Int32 loadNumber) (at Assets/Scripts/Menu/NewGameMenu.cs:12)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.CachedInvokableCall`1[T].Invoke (System.Object[] args) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:18:45.2759 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:27)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:19:12.8708 [DEBUG] Play mode: False
+2020-06-25 04:19:15.3491 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:19:15.4945 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:19:19.4477 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.CreateNewPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+NewGameMenu.CreateNewGame (System.Int32 loadNumber) (at Assets/Scripts/Menu/NewGameMenu.cs:12)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.CachedInvokableCall`1[T].Invoke (System.Object[] args) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:19:19.7659 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:27)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:19:26.0714 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:23)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:19:31.1633 [DEBUG] Play mode: False
+2020-06-25 04:21:22.7871 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:21:26.1239 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:21:26.2488 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:21:28.9366 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.CreateNewPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+NewGameMenu.CreateNewGame (System.Int32 loadNumber) (at Assets/Scripts/Menu/NewGameMenu.cs:12)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.CachedInvokableCall`1[T].Invoke (System.Object[] args) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:21:29.2739 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:28)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:21:36.8133 [DEBUG] Play mode: False
+2020-06-25 04:22:26.4484 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:22:29.1533 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:22:29.2753 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:22:30.5566 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.CreateNewPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:16)
+NewGameMenu.CreateNewGame (System.Int32 loadNumber) (at Assets/Scripts/Menu/NewGameMenu.cs:12)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.CachedInvokableCall`1[T].Invoke (System.Object[] args) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:22:30.8738 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:29)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:22:37.2137 [DEBUG] Play mode: False
+2020-06-25 04:23:00.2978 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:23:03.6131 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:23:03.7355 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:23:05.9885 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.CreateNewPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:16)
+NewGameMenu.CreateNewGame (System.Int32 loadNumber) (at Assets/Scripts/Menu/NewGameMenu.cs:12)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.CachedInvokableCall`1[T].Invoke (System.Object[] args) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:23:06.3046 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:29)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:23:11.5001 [DEBUG] Play mode: False
+2020-06-25 04:24:08.1266 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:24:10.7827 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:24:10.8949 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:24:12.6566 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Type objectType, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.CreateNewPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+NewGameMenu.CreateNewGame (System.Int32 loadNumber) (at Assets/Scripts/Menu/NewGameMenu.cs:12)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.CachedInvokableCall`1[T].Invoke (System.Object[] args) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:24:12.9894 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:28)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:428)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:24:20.8712 [DEBUG] Play mode: False
+2020-06-25 04:30:02.2294 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:30:37.3096 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:31:26.1366 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:31:42.9502 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:31:43.0786 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:31:46.9576 [ERROR] UnassignedReferenceException: The variable player of Movement has not been assigned.
+You probably need to assign the player variable of the Movement script in the inspector.
+Movement.MoveToCurrentCheckpoint () (at Assets/Scripts/Movement.cs:457)
+Movement.CreateNewPlayer (UnityEngine.SceneManagement.Scene scene, UnityEngine.SceneManagement.LoadSceneMode mode) (at Assets/Scripts/Movement.cs:452)
+UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (UnityEngine.SceneManagement.Scene scene, UnityEngine.SceneManagement.LoadSceneMode mode) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+
+2020-06-25 04:31:47.0328 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:28)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:439)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:39:56.2811 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:39:59.8327 [DEBUG] Play mode: False
+2020-06-25 04:42:16.2132 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:42:38.6351 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:42:38.7557 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:42:40.9598 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:28)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:445)
+Movement.Start () (at Assets/Scripts/Movement.cs:83)
+
+2020-06-25 04:42:40.9852 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:24)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:445)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:42:51.8780 [DEBUG] Play mode: False
+2020-06-25 04:44:02.6052 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:44:16.6831 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:44:24.4802 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:44:24.5973 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:44:27.0154 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:445)
+Movement.Start () (at Assets/Scripts/Movement.cs:83)
+
+2020-06-25 04:44:27.0417 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:445)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:44:34.9091 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:445)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:44:37.4512 [DEBUG] Play mode: False
+2020-06-25 04:45:10.4953 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:47:39.2436 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:48:10.5819 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:48:10.7410 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:48:12.3390 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Movement.Start () (at Assets/Scripts/Movement.cs:83)
+
+2020-06-25 04:48:12.3644 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:48:21.7240 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:48:23.1352 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:48:37.4067 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+PauseMenu.ExitGame () (at Assets/Scripts/Menu/PauseMenu.cs:49)
+UnityEngine.Events.InvokableCall.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 04:48:40.6818 [ERROR] SerializationException: End of Stream encountered before parsing was completed.
+System.Runtime.Serialization.Formatters.Binary.__BinaryParser.Run () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize (System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Runtime.Serialization.Formatters.Binary.__BinaryParser serParser, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.LoadPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:27)
+Movement.LoadPlayer () (at Assets/Scripts/Movement.cs:454)
+Movement.Start () (at Assets/Scripts/Movement.cs:87)
+
+2020-06-25 04:49:00.9088 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Movement.Dash (System.Single x, System.Single y) (at Assets/Scripts/Movement.cs:300)
+Movement.Update () (at Assets/Scripts/Movement.cs:194)
+
+2020-06-25 04:49:06.2023 [DEBUG] Play mode: False
+2020-06-25 04:51:15.9905 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:51:16.1477 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:51:17.8420 [ERROR] SerializationException: End of Stream encountered before parsing was completed.
+System.Runtime.Serialization.Formatters.Binary.__BinaryParser.Run () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize (System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Runtime.Serialization.Formatters.Binary.__BinaryParser serParser, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.LoadPlayer () (at Assets/Scripts/SavingProgress/SaveSystem.cs:27)
+Movement.LoadPlayer () (at Assets/Scripts/Movement.cs:454)
+Movement.Start () (at Assets/Scripts/Movement.cs:87)
+
+2020-06-25 04:51:17.8689 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:51:28.3586 [DEBUG] Play mode: False
+2020-06-25 04:51:31.4354 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 04:51:31.5779 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 04:51:33.1407 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Movement.Start () (at Assets/Scripts/Movement.cs:83)
+
+2020-06-25 04:51:33.1670 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:51:42.4869 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:51:48.5674 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:51:49.4881 [ERROR] IOException: Sharing violation on path C:\Users\xiinw\AppData\LocalLow\DefaultCompany\Escape\player1.lol
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) (at <437ba245d8404784b9fbab9b439ac908>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:11)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:54:38.4202 [ERROR] SerializationException: Type 'UnityEngine.GameObject' in Assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers (System.RuntimeType type) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices+<>c__DisplayClass9_0.<GetSerializableMembers>b__0 (System.Runtime.Serialization.MemberHolder _) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Collections.Concurrent.ConcurrentDictionary`2[TKey,TValue].GetOrAdd (TKey key, System.Func`2[T,TResult] valueFactory) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.FormatterServices.GetSerializableMembers (System.Type type, System.Runtime.Serialization.StreamingContext context) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo () (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize (System.Object obj, System.Runtime.Serialization.ISurrogateSelector surrogateSelector, System.Runtime.Serialization.StreamingContext context, System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit serObjectInfoInit, System.Runtime.Serialization.IFormatterConverter converter, System.Runtime.Serialization.Formatters.Binary.ObjectWriter objectWriter, System.Runtime.Serialization.SerializationBinder binder) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write (System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo objectInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo memberNameInfo, System.Runtime.Serialization.Formatters.Binary.NameInfo typeNameInfo) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) (at <437ba245d8404784b9fbab9b439ac908>:0)
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) (at <437ba245d8404784b9fbab9b439ac908>:0)
+SaveSystem.SavePlayer (Movement player) (at Assets/Scripts/SavingProgress/SaveSystem.cs:15)
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:449)
+Checkpoint.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Prefab/Checkpoint.cs:20)
+
+2020-06-25 04:55:16.7941 [DEBUG] Play mode: False
+2020-06-25 05:06:34.4913 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:09:09.1388 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:09:29.1449 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:09:50.4316 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:09:50.5546 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:10:04.2775 [ERROR] UnassignedReferenceException: The variable currentCheckpoint of Movement has not been assigned.
+You probably need to assign the currentCheckpoint variable of the Movement script in the inspector.
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:450)
+PauseMenu.ExitGame () (at Assets/Scripts/Menu/PauseMenu.cs:49)
+UnityEngine.Events.InvokableCall.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 05:11:01.2223 [DEBUG] Play mode: False
+2020-06-25 05:11:03.9365 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:11:04.0810 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:11:46.7975 [DEBUG] Play mode: False
+2020-06-25 05:13:07.6195 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:13:27.1894 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:13:27.3241 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:14:10.1967 [DEBUG] Play mode: False
+2020-06-25 05:14:16.7113 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:14:16.8675 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:14:36.3064 [DEBUG] Play mode: False
+2020-06-25 05:17:30.6242 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:17:34.1155 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:17:34.2385 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:17:35.2532 [DEBUG] Play mode: False
+2020-06-25 05:17:43.0296 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:17:43.1779 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:18:19.2881 [DEBUG] Play mode: False
+2020-06-25 05:19:17.8630 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:19:18.0133 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:19:25.6492 [DEBUG] Play mode: False
+2020-06-25 05:19:28.3235 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:19:28.4650 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:20:18.9504 [ERROR] UnassignedReferenceException: The variable currentCheckpoint of Movement has not been assigned.
+You probably need to assign the currentCheckpoint variable of the Movement script in the inspector.
+Movement.SavePlayer () (at Assets/Scripts/Movement.cs:450)
+PauseMenu.ExitGame () (at Assets/Scripts/Menu/PauseMenu.cs:49)
+UnityEngine.Events.InvokableCall.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <e98ed0368295432e8c11e52d6243ee11>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-06-25 05:20:37.4964 [DEBUG] Play mode: False
+2020-06-25 05:20:40.1283 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:20:40.2690 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:20:54.9593 [DEBUG] Play mode: False
+2020-06-25 05:21:23.6476 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:21:23.8096 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:22:05.6573 [DEBUG] Play mode: False
+2020-06-25 05:23:44.7137 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-25 05:23:44.8533 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-25 05:23:48.9223 [DEBUG] Play mode: False
+2020-06-25 21:05:05.7686 [DEBUG] Scene Fusion version 1.8.7-0

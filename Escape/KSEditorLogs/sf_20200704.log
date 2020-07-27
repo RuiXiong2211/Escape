@@ -1,0 +1,110 @@
+2020-07-04 00:12:11.3352 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 00:13:11.1317 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:28:20.3685 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:51:07.8017 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:51:34.5298 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:51:34.6982 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:51:43.4893 [DEBUG] Play mode: False
+2020-07-04 04:51:50.1301 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:51:50.2894 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:51:58.7457 [DEBUG] Play mode: False
+2020-07-04 04:52:07.6907 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:52:07.8634 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:52:25.2805 [DEBUG] Play mode: False
+2020-07-04 04:52:31.2288 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:52:31.3899 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:52:46.6854 [DEBUG] Play mode: False
+2020-07-04 04:54:19.2632 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:54:19.4213 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:54:34.4002 [DEBUG] Play mode: False
+2020-07-04 04:54:50.3667 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:54:53.4639 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:54:53.6132 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:54:58.0745 [DEBUG] Play mode: False
+2020-07-04 04:55:39.6190 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:55:43.0197 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:55:43.1504 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:55:47.0884 [DEBUG] Play mode: False
+2020-07-04 04:55:49.8533 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:55:50.0153 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:55:53.1257 [DEBUG] Play mode: False
+2020-07-04 04:56:22.9865 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:56:26.6776 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:56:26.8126 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:56:40.3701 [DEBUG] Play mode: False
+2020-07-04 04:56:54.7707 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:56:57.9769 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:56:58.1175 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:58:03.3252 [DEBUG] Play mode: False
+2020-07-04 04:58:12.1474 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:58:12.3095 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:58:18.7435 [DEBUG] Play mode: False
+2020-07-04 04:58:23.9899 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:58:24.1554 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:58:28.8668 [DEBUG] Play mode: False
+2020-07-04 04:58:35.1346 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:58:35.3015 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:58:43.7541 [DEBUG] Play mode: False
+2020-07-04 04:58:46.1687 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:58:46.3257 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 04:58:53.6201 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Movement.Dash (System.Single x, System.Single y) (at Assets/Scripts/Movement.cs:317)
+Movement.Update () (at Assets/Scripts/Movement.cs:202)
+
+2020-07-04 04:58:55.6042 [DEBUG] Play mode: False
+2020-07-04 04:59:01.7968 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 04:59:01.9589 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:00:16.8324 [DEBUG] Play mode: False
+2020-07-04 05:00:22.5531 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:00:22.7229 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:00:34.8615 [DEBUG] Play mode: False
+2020-07-04 05:02:19.6038 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:02:19.7503 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:03:30.7488 [DEBUG] Play mode: False
+2020-07-04 05:03:33.7845 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:03:33.9344 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:03:34.2183 [DEBUG] Play mode: False
+2020-07-04 05:04:12.0164 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:04:12.1745 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:04:23.4274 [DEBUG] Play mode: False
+2020-07-04 05:05:03.4746 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:05:03.6395 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:05:04.8690 [DEBUG] Play mode: False
+2020-07-04 05:05:21.7574 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:05:21.9213 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:05:26.0794 [DEBUG] Play mode: False
+2020-07-04 05:05:30.7226 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:05:30.8885 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:05:33.9606 [DEBUG] Play mode: False
+2020-07-04 05:06:07.2628 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:06:07.4273 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:06:17.6182 [DEBUG] Play mode: False
+2020-07-04 05:07:45.3415 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:07:45.4948 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:07:51.8960 [DEBUG] Play mode: False
+2020-07-04 05:07:56.9781 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:07:57.1371 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:08:00.8945 [ERROR] UnassignedReferenceException: The variable spikeCheckpoint of KillPlayer has not been assigned.
+You probably need to assign the spikeCheckpoint variable of the KillPlayer script in the inspector.
+KillPlayer+<RespawnPlayer>d__5.MoveNext () (at Assets/Scripts/Prefab/KillPlayer.cs:33)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <e98ed0368295432e8c11e52d6243ee11>:0)
+
+2020-07-04 05:08:05.7349 [DEBUG] Play mode: False
+2020-07-04 05:08:14.5836 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:08:14.7355 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:08:49.3381 [DEBUG] Play mode: False
+2020-07-04 05:15:52.9772 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:15:53.1402 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:15:59.1143 [DEBUG] Play mode: False
+2020-07-04 05:44:23.1919 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:44:23.3588 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:44:36.1382 [DEBUG] Play mode: False
+2020-07-04 05:47:33.3872 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:47:33.5473 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:48:35.4810 [DEBUG] Play mode: False
+2020-07-04 05:51:53.9699 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:51:54.1172 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:52:34.7895 [DEBUG] Play mode: False
+2020-07-04 05:54:08.8208 [DEBUG] Scene Fusion version 1.8.7-0
+2020-07-04 05:54:08.9750 [DEBUG] Play mode: True, sync in play mode: False
+2020-07-04 05:54:32.1995 [DEBUG] Play mode: False

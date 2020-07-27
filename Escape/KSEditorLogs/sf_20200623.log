@@ -1,0 +1,2801 @@
+2020-06-23 01:18:51.2799 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 02:25:11.4423 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 02:25:11.6082 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 02:28:44.1198 [DEBUG] Play mode: False
+2020-06-23 02:32:26.6801 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 02:32:26.8436 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 02:40:38.1545 [DEBUG] Play mode: False
+2020-06-23 03:15:06.7859 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:15:06.9484 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:15:29.0654 [DEBUG] Play mode: False
+2020-06-23 03:20:49.0719 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:20:49.2299 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:20:56.2474 [DEBUG] Play mode: False
+2020-06-23 03:21:02.2753 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:21:02.4321 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:21:11.2572 [DEBUG] Play mode: False
+2020-06-23 03:21:18.8306 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:21:18.9901 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:21:29.9115 [DEBUG] Play mode: False
+2020-06-23 03:27:36.3317 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:29:25.2939 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:29:25.4498 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:29:36.1832 [DEBUG] Play mode: False
+2020-06-23 03:29:45.0528 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:29:45.2139 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:31:02.7864 [DEBUG] Play mode: False
+2020-06-23 03:31:17.3902 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:31:17.5624 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:31:42.5125 [DEBUG] Play mode: False
+2020-06-23 03:37:34.0228 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:37:34.1819 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:38:00.3634 [DEBUG] Play mode: False
+2020-06-23 03:45:37.0216 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:45:37.1793 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:46:29.7466 [DEBUG] Play mode: False
+2020-06-23 03:51:01.0250 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:51:01.1958 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:51:15.2447 [DEBUG] Play mode: False
+2020-06-23 03:53:40.8300 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 03:53:40.9815 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 03:54:11.3254 [DEBUG] Play mode: False
+2020-06-23 04:00:14.6712 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:00:14.7967 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.7977 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.7977 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.7987 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.7987 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.8426 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:00:14.8485 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.8485 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.8860 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.8870 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.9105 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.9241 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.9368 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.9625 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.9752 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:14.9996 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.0288 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.0454 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.0616 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.0791 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.0987 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.1260 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.1406 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.1728 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.1904 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.2040 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.2187 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.2441 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.2567 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.2831 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.2968 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.3221 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.3358 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.3622 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.3875 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.4012 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.4158 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.4412 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.4666 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.4793 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.5056 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.5203 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.5466 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.5593 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.5876 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.6003 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.6286 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.6432 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.6569 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.6842 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.6969 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.7233 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.7360 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.7623 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.7887 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.8023 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.8180 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.8443 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.8570 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.8843 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.8970 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.9243 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.9370 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.9634 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:15.9751 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.0024 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.0288 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.0415 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.0688 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.0824 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.1078 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.1225 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.1391 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.1566 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.1898 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.2025 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.2162 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.2435 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.2562 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.2825 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.3079 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.3216 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.3372 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.3655 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.3791 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.4066 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.4203 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.4495 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.4623 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.4750 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.5013 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.5160 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.5433 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.5560 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.5823 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.5970 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.6233 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.6370 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.6634 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.6760 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.7024 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.7268 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.7405 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.7668 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.7785 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.8049 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.8195 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.8468 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.8602 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.8846 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.8973 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.9246 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.9363 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.9631 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:16.9759 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.0022 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.0159 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.0403 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.0696 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.0842 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.0969 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.1262 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.1408 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.1682 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.1808 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.2072 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.2228 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.2384 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.2570 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.2907 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.3053 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.3219 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.3356 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.3619 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.3766 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.4029 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.4273 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.4410 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.4673 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.4810 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.5083 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.5200 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.5464 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.5600 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.5874 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.5991 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.6245 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.6391 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.6645 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.6772 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.7045 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.7182 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.7435 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.7572 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.7835 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.7972 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.8245 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.8362 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.8646 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.8782 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.9055 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.9173 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.9426 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.9573 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.9856 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:17.9973 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.0236 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.0363 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.0646 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.0773 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.1027 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.1164 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.1417 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.1681 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.1808 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.2081 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.2218 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.2491 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.2618 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.2755 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.3018 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.3155 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.3457 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.3662 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.3828 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.3975 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.4238 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.4365 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.4648 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.4783 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.5046 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.5173 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.5437 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.5573 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.5844 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.5981 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.6244 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.6371 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.6644 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.6771 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.7044 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.7162 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.7425 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.7562 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.7835 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.7972 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.8235 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.8372 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.8645 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.8771 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.9044 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.9171 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.9444 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.9601 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.9864 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:18.9981 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.0245 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.0372 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.0654 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.0784 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.1048 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.1175 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.1438 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.1565 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.1839 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.1975 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.2229 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.2356 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.2610 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.2883 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.3039 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.3166 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.3449 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.3586 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.3869 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.3996 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.4279 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.4444 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.4620 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.4786 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.5079 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.5206 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.5469 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.5596 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.5879 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.6016 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.6270 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.6387 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.6646 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.6782 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.7046 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.7182 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.7426 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.7563 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.7836 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.7983 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.8256 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.8393 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.8676 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.8803 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.9056 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.9193 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.9437 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.9574 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.9837 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:19.9964 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.0247 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.0384 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.0696 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.0823 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.0969 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.1262 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.1389 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.1648 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.1794 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.2067 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.2194 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.2438 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.2575 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.2848 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.2985 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.3239 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.3375 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.3707 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.3824 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.3961 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.4215 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.4468 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.4595 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.4751 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.5025 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.5200 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.5376 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.5571 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.5835 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.6010 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.6157 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.6440 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.6606 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.6762 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.7045 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.7191 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.7455 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.7601 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.7757 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.8028 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.8194 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.8417 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.8612 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.8758 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.9051 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.9188 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.9481 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.9627 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.9812 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:20.9959 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.0271 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.0427 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.0623 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.0779 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.1081 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.1228 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.1364 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.1657 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.1813 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.2096 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.2223 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.2486 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.2623 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.2750 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.3081 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.3218 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.3481 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.3608 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.3809 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:00:21.9225 [DEBUG] Play mode: False
+2020-06-23 04:03:05.4975 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:03:05.6498 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:03:16.7673 [DEBUG] Play mode: False
+2020-06-23 04:04:14.3288 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:04:14.4856 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:04:27.4177 [DEBUG] Play mode: False
+2020-06-23 04:04:36.9766 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:04:37.1298 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:04:39.5632 [DEBUG] Play mode: False
+2020-06-23 04:05:20.5956 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:05:20.7449 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:05:34.4892 [DEBUG] Play mode: False
+2020-06-23 04:05:43.6397 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:05:43.7903 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:06:19.5353 [DEBUG] Play mode: False
+2020-06-23 04:11:19.2283 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:11:19.3903 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:12:28.8049 [DEBUG] Play mode: False
+2020-06-23 04:12:47.7808 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:12:47.9486 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:12:55.8403 [DEBUG] Play mode: False
+2020-06-23 04:12:58.7042 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:12:58.8570 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:13:14.6063 [DEBUG] Play mode: False
+2020-06-23 04:13:37.5454 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:13:37.7055 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:16:08.2325 [DEBUG] Play mode: False
+2020-06-23 04:16:27.2192 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:16:27.3691 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:17:35.6177 [DEBUG] Play mode: False
+2020-06-23 04:20:23.2281 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:20:23.3907 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:21:00.7986 [DEBUG] Play mode: False
+2020-06-23 04:41:21.4739 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:41:21.5881 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.5891 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.5901 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.5920 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.5930 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.6399 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:41:21.6467 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.6477 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.6487 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.6806 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.6952 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.7079 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.7323 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.7587 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.7699 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.7949 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.8105 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.8359 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.8486 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.8740 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.8876 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.9120 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.9355 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.9481 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.9752 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:21.9888 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.0121 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.0361 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.0478 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.0731 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.0852 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.1096 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.1340 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.1467 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.1715 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.1969 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.2096 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.2340 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.2457 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.2701 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.2964 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.3091 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.3355 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.3472 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.3726 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.3970 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.4098 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.4342 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.4469 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.4732 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.4859 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.5113 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.5345 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.5471 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.5725 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.5969 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.6096 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.6330 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.6584 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.6711 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.6867 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.7160 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.7306 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.7482 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.7804 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.7941 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.8068 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.8302 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.8556 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.8682 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.8936 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.9073 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.9297 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.9541 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.9668 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:22.9934 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.0059 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.0283 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.0527 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.0781 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.0898 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.1152 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.1269 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.1513 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.1757 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.1884 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.2119 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.2344 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.2471 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.2715 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.2968 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.3095 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.3329 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.3456 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.3710 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.3957 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.4094 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.4328 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.4591 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.4728 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.4962 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.5079 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.5314 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.5460 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.5714 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.5958 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.6075 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.6309 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.6543 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.6680 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.6924 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.7070 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.7315 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.7549 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.7685 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.7949 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.8105 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.8290 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.8583 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.8730 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.8867 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.9101 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.9335 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.9472 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.9729 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:23.9867 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.0101 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.0326 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.0453 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.0716 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.0960 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.1097 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.1326 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.1463 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.1707 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.1961 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.2117 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.2351 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.2488 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.2741 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.2874 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.3128 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.3377 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.3514 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.3758 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.3876 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.4110 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.4344 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.4481 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.4728 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.4864 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.5108 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.5342 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.5479 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.5743 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.5881 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.6116 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.6360 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.6486 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.6740 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.6867 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.7101 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.7336 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.7472 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.7726 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.7868 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.8121 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.8385 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.8551 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.8697 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.8985 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.9161 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.9337 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.9512 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.9678 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:24.9928 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.0162 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.0298 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.0542 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.0699 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.0933 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.1069 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.1304 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.1538 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.1675 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.1909 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.2143 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.2280 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.2524 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.2758 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.2904 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.3129 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.3373 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.3509 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.3656 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.3900 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.4154 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.4290 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.4524 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.4759 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.4895 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.5135 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.5262 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.5506 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.5760 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.5896 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.6131 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.6277 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.6531 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.6668 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.6922 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.7156 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.7283 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.7527 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.7761 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.7907 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.8142 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.8278 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.8552 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.8678 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.8952 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.9079 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.9332 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.9488 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.9742 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:25.9947 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.0113 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.0333 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.0557 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.0821 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.1026 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.1172 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.1338 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.1494 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.1826 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.2002 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.2148 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.2304 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.2607 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.2763 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.2949 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.3095 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.3419 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.3575 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.3829 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.4019 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.4195 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.4351 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.4512 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.4805 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.4968 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.5153 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.5309 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.5465 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.5788 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.5953 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.6110 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.6276 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.6555 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.6731 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.6975 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.7087 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.7341 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.7585 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.7692 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.7956 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.8073 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.8385 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.8551 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.8707 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.8869 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.9172 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.9338 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.9474 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.9767 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:26.9904 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.0070 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.0343 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.0499 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.0772 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.0960 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.1165 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.1370 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.1556 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.1751 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.1907 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.2073 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.2405 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.2561 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.2727 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.2888 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.3151 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.3307 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.3551 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.3678 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.3922 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.4108 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.4361 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.4508 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.4752 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.4898 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.5169 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.5305 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.5481 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.5725 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.5862 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.6154 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.6272 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.6509 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.6748 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:27.6899 [ERROR] UnassignedReferenceException: The variable points of Moving has not been assigned.
+You probably need to assign the points variable of the Moving script in the inspector.
+Moving.FixedUpdate () (at Assets/Scripts/Prefab/Moving.cs:25)
+
+2020-06-23 04:41:28.1581 [DEBUG] Play mode: False
+2020-06-23 04:41:50.6656 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:41:50.8226 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:43:13.4625 [DEBUG] Play mode: False
+2020-06-23 04:44:25.0753 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:44:25.2246 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:44:30.6677 [DEBUG] Play mode: False
+2020-06-23 04:44:37.5712 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:44:37.7254 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:44:46.9766 [DEBUG] Play mode: False
+2020-06-23 04:45:12.4419 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:45:12.5935 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:45:34.1925 [DEBUG] Play mode: False
+2020-06-23 04:46:05.4727 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:46:05.6156 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:46:10.4568 [DEBUG] Play mode: False
+2020-06-23 04:47:38.6067 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:47:38.7617 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:47:46.7640 [DEBUG] Play mode: False
+2020-06-23 04:48:34.9279 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:48:35.0925 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:48:47.3735 [DEBUG] Play mode: False
+2020-06-23 04:49:14.1951 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:49:14.3453 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:49:18.5780 [DEBUG] Play mode: False
+2020-06-23 04:49:27.0665 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:49:27.2350 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:49:35.1983 [DEBUG] Play mode: False
+2020-06-23 04:49:48.4838 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:49:48.6390 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:50:05.3843 [DEBUG] Play mode: False
+2020-06-23 04:51:37.1773 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:51:37.3385 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:54:14.3016 [DEBUG] Play mode: False
+2020-06-23 04:54:51.6089 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:54:51.7671 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:56:15.2601 [DEBUG] Play mode: False
+2020-06-23 04:56:28.7172 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 04:56:28.8724 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 04:57:09.9014 [DEBUG] Play mode: False
+2020-06-23 05:04:17.3484 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:04:17.5173 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:04:24.5974 [DEBUG] Play mode: False
+2020-06-23 05:04:27.6774 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:04:27.8365 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:05:01.0400 [DEBUG] Play mode: False
+2020-06-23 05:05:09.1139 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:05:09.2710 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:05:14.2553 [DEBUG] Play mode: False
+2020-06-23 05:05:27.5331 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:05:27.6951 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:06:09.9048 [DEBUG] Play mode: False
+2020-06-23 05:07:50.8710 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:07:51.0249 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:07:57.5867 [DEBUG] Play mode: False
+2020-06-23 05:08:10.1032 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:08:10.2584 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:08:15.8298 [DEBUG] Play mode: False
+2020-06-23 05:08:20.1515 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:08:20.3145 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:08:42.0944 [DEBUG] Play mode: False
+2020-06-23 05:09:19.8622 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:09:20.0125 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:09:21.6588 [DEBUG] Play mode: False
+2020-06-23 05:09:28.7279 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:09:28.9027 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:09:38.7787 [DEBUG] Play mode: False
+2020-06-23 05:09:41.7587 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:09:41.9213 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:09:57.3116 [DEBUG] Play mode: False
+2020-06-23 05:10:21.4605 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:10:21.6191 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:10:34.9841 [DEBUG] Play mode: False
+2020-06-23 05:11:02.2620 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:11:02.4303 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:11:08.7450 [DEBUG] Play mode: False
+2020-06-23 05:11:41.8005 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:11:41.9572 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:11:45.1874 [DEBUG] Play mode: False
+2020-06-23 05:17:04.7565 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:17:04.9166 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:17:09.2639 [DEBUG] Play mode: False
+2020-06-23 05:19:00.2959 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:19:00.4569 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:19:06.3145 [DEBUG] Play mode: False
+2020-06-23 05:19:25.6490 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:19:25.8062 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:20:38.4127 [DEBUG] Play mode: False
+2020-06-23 05:20:56.4597 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:20:56.6129 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:21:07.9501 [DEBUG] Play mode: False
+2020-06-23 05:21:10.8487 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:21:11.0042 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 05:21:34.8862 [DEBUG] Play mode: False
+2020-06-23 05:51:32.4614 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:52:20.2670 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:52:39.2458 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 05:52:58.7105 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:00:14.3556 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:00:35.1656 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:00:40.6362 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:01:08.5318 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:01:08.6783 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:01:16.3352 [DEBUG] Play mode: False
+2020-06-23 06:02:25.7189 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:02:25.8760 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:02:33.9055 [DEBUG] Play mode: False
+2020-06-23 06:03:18.6692 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:03:18.8361 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:03:32.9407 [DEBUG] Play mode: False
+2020-06-23 06:05:31.0081 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:05:31.1584 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:05:47.0142 [DEBUG] Play mode: False
+2020-06-23 06:06:40.1876 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:06:44.1089 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:06:44.2451 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:06:48.0892 [DEBUG] Play mode: False
+2020-06-23 06:07:34.7721 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:07:40.3462 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:07:40.4890 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:08:01.6801 [DEBUG] Play mode: False
+2020-06-23 06:09:01.6477 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:09:05.0964 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:09:05.2360 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:09:05.6888 [DEBUG] Play mode: False
+2020-06-23 06:09:09.6200 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:09:09.7868 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:09:16.3591 [DEBUG] Play mode: False
+2020-06-23 06:10:11.2324 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:10:16.2542 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:10:16.3713 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:10:28.1289 [DEBUG] Play mode: False
+2020-06-23 06:10:46.1265 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:10:49.4433 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:10:49.5580 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:10:53.4433 [DEBUG] Play mode: False
+2020-06-23 06:12:06.4057 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:12:06.5423 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:12:14.0985 [DEBUG] Play mode: False
+2020-06-23 06:12:21.4667 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:12:21.6166 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:12:28.9520 [DEBUG] Play mode: False
+2020-06-23 06:12:53.0526 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:12:56.2731 [DEBUG] Scene Fusion version 1.8.7-0
+2020-06-23 06:12:56.3980 [DEBUG] Play mode: True, sync in play mode: False
+2020-06-23 06:13:08.4435 [DEBUG] Play mode: False

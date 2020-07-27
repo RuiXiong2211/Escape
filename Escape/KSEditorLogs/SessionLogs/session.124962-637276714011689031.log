@@ -1,0 +1,29 @@
+2020-06-13 18:56:41.5869 [DEBUG] Validating model...
+2020-06-13 18:56:41.7851 [DEBUG] Model validated
+2020-06-13 18:56:41.7851 [DEBUG] Authenticating with server...
+2020-06-13 18:56:42.0481 [DEBUG] Connected to room. (124962:SceneFusion:SceneFusion)
+2020-06-13 18:56:42.0501 [INFO] Connected to server.
+2020-06-13 18:56:42.0501 [DEBUG] OS : Microsoft Windows NT 10.0.18362.0
+2020-06-13 18:56:42.0511 [DEBUG] Unity Version : 2019.3.15f1
+2020-06-13 18:56:42.0511 [DEBUG] Pro License : False
+2020-06-13 18:56:42.0511 [DEBUG] Platform : WindowsEditor
+2020-06-13 18:56:42.0511 [DEBUG] Build Target : StandaloneWindows64
+2020-06-13 18:56:42.0511 [DEBUG] Scene Fusion version : 1.8.7
+2020-06-13 18:56:42.0520 [DEBUG] Scene Fusion client build : 0
+2020-06-13 18:56:42.0520 [DEBUG] User : xiinweii98@gmail.com
+2020-06-13 18:56:42.0520 [DEBUG] Waiting for server response
+2020-06-13 18:56:42.2326 [DEBUG] Tier: Free, Permissions: 00000200
+2020-06-13 18:56:42.2326 [DEBUG] User Permissions: FFFFFFFF
+2020-06-13 18:56:42.2336 [DEBUG] No stand-in for UnityEngine.MovieTexture
+2020-06-13 18:56:42.2336 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RayTracingShader
+2020-06-13 18:56:42.2336 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2020-06-13 18:56:42.2336 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2020-06-13 18:56:42.2336 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2020-06-13 18:56:42.2336 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2020-06-13 18:56:42.2345 [DEBUG] No stand-in for UnityEngine.VFX.VisualEffectAsset
+2020-06-13 18:56:45.3993 [DEBUG] Loading complete
+2020-06-13 18:57:09.3075 [WARNING] Cannot sync '' (Tile) because it is not in Unity's asset database.
+2020-06-13 18:57:12.8267 [WARNING] Cannot sync '' (Sprite) because it is not in Unity's asset database.
+2020-06-13 20:28:07.5969 [DEBUG] Disconnecting from room (124962:SceneFusion:SceneFusion)
+2020-06-13 20:52:22.8077 [INFO] Disconnected from server.
+2020-06-13 20:52:22.8077 [DEBUG] Disconnect. (Duration: 5485)
